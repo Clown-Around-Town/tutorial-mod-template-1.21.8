@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    [
+      "tutorialmod:sculk_shell"
+    ],
+    [
+      "tutorialmod:sculk_shell"
+    ],
+    [
+      "tutorialmod:sculk_shell"
+    ],
+    [
+      "tutorialmod:sculk_shell"
+    ],
+    [
+      "minecraft:sculk"
+    ]
+  ],
+  "result": {
+    "id": "tutorialmod:sculk_pillar",
+    "count": 2
+  }
+}

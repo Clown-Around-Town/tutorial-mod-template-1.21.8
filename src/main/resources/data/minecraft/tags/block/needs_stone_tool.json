@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "tutorialmod:sculk_pillar",
+    "tutorialmod:sculk_bricks",
+    "tutorialmod:cracked_sculk_bricks"
+  ]
+}

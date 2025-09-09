@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "blocks",
+  "cookingtime": 225,
+  "experience": 0.2,
+  "ingredient": "tutorialmod:sculk_bricks",
+  "result": {
+    "id": "tutorialmod:cracked_sculk_bricks"
+  }
+}

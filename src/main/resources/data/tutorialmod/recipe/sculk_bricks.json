@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "S": "tutorialmod:sculk_shell"
+  },
+ "pattern": [
+    "SSS",
+    "SSS",
+    "SSS"
+  ],
+  "result": {
+    "count": 2,
+    "id": "tutorialmod:sculk_bricks"
+  }
+}
