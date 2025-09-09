@@ -1,6 +1,7 @@
 package andro_king.firstmod;
 
 import andro_king.firstmod.block.ModBlocks;
+import andro_king.firstmod.item.ModItemGroups;
 import andro_king.firstmod.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
@@ -13,6 +14,8 @@ public class TutorialMod implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
+        ModItemGroups.registerItemGroups();
+
         ModItems.registerModItems();
         ModBlocks.registerModBlocks();
 	}
