@@ -2,5 +2,10 @@
   "item.tutorialmod.sculk_shell": "Sculk Shell",
   "item.tutorialmod.sculk_tooth": "Sculk Tooth",
 
-  "item.tutorialmod.sculk_pillar": "Sculk Pillar"
+  "item.tutorialmod.sculk_pillar": "Sculk Pillar",
+  "item.tutorialmod.sculk_bricks": "Sculk Bricks",
+  "item.tutorialmod.silent_sculk": "Silent Sculk",
+  "item.tutorialmod.cracked_sculk_bricks": "Cracked Sculk Bricks",
+
+  "itemgroup.tutorialmod.sculk_additions": "Sculk Additions"
 }
