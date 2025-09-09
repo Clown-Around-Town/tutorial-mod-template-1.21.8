@@ -9,7 +9,7 @@
 	],
 	"contact": {
 		"homepage": "https://www.twitter.com/_AndroKing",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/Clown-Around-Town/tutorial-mod-template-1.21.8"
 	},
 	"license": "CC3.0-BY",
 	"icon": "assets/tutorialmod/icon.png",
