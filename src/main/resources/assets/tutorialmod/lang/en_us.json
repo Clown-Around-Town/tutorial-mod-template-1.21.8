@@ -6,6 +6,9 @@
   "item.tutorialmod.sculk_bricks": "Sculk Bricks",
   "item.tutorialmod.silent_sculk": "Silent Sculk",
   "item.tutorialmod.cracked_sculk_bricks": "Cracked Sculk Bricks",
+  "item.tutorialmod.white_pumpkin": "White Pumpkin",
+  "item.tutorialmod.carved_white_pumpkin": "Carved White Pumpkin",
+  "item.tutorialmod.white_jack_o_lantern": "White Jack O Lantern",
 
   "itemgroup.tutorialmod.sculk_additions": "Sculk Additions"
 }
